@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912355784708",
+    "project_id": "getdiamondpentacoda",
+    "storage_bucket": "getdiamondpentacoda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912355784708:android:6fa977cbe2520d73369d51",
+        "android_client_info": {
+          "package_name": "com.app.getdiamondpentacoda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912355784708-0i9hsvisn0sml3ru905i6dk3bqutr5ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZvP9aWJAAIYE9WjQL0OF9K_1oawI7vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912355784708-0i9hsvisn0sml3ru905i6dk3bqutr5ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
